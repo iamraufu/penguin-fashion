@@ -1,5 +1,5 @@
 # penguin-fashion
 Clothing Site
 
-#Live Demo
+# Live Demo
 https://iamraufu.github.io/penguin-fashion/
